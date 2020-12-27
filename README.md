@@ -26,8 +26,11 @@ Accept …
 
 ### Check the ssh agent
 ssh-agent -s
+
 SSH_AUTH_SOCK=/tmp/ssh-JTpGA5GBUNMN/agent.9656; export SSH_AUTH_SOCK;
+
 SSH_AGENT_PID=8972; export SSH_AGENT_PID;
+
 echo Agent pid 8972;
 
 ### Copy the ssh key
