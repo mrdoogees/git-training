@@ -16,7 +16,7 @@ You can use this repository to familiarize with the most used git commands :
 # Configure ssh 
 You can use gitbash which is the default git command line tool.
 
-In this example, I choose [[cmder](https://cmder.net/)]
+In this example, I advise you to go with the beautiful emulator conosle : [[cmder](https://cmder.net/)]
 
 
 ### Generate ssh key
