@@ -1,4 +1,4 @@
-You can use this repository to train with git's basics command :
+Repository to familiarize with git's command :
 - clone
 - checkout
 - status
@@ -11,20 +11,14 @@ You can use this repository to train with git's basics command :
 - rebase
 - fetch
 
-# Github with cmder
+# Configure ssh
 
 ### Generate ssh key
 ssh-keygen -t rsa -b 4096 -C your-emails@gmail.com
 
-![image](https://user-images.githubusercontent.com/21175250/103168702-b27dfd80-4835-11eb-93d9-b7b57639cc1f.png)
-
-![image](https://user-images.githubusercontent.com/21175250/103168517-27e8ce80-4834-11eb-8338-cdc19e42a6da.png)
-
-Do not change the name of the file : id_rsa
-
+_Do not change the name of the file : id_rsa
 Do not change the directory : /c/User/aosih/.ssh/id_rsa
-
-Accept …
+Accept …_
 
 ### Check the ssh agent
 ssh-agent -s
