@@ -16,11 +16,11 @@ Repository to familiarize with git's command :
 ### Generate ssh key
 ssh-keygen -t rsa -b 4096 -C your-emails@gmail.com
 
-_Do not change the name of the file : id_rsa
+_Do not change the name of the file : id_rsa_
 
-_Do not change the directory : /c/User/aosih/.ssh/id_rsa
+_Do not change the directory : /c/User/aosih/.ssh/id_rsa_
 
-_Accept …
+_Accept …_
 
 ### Check the ssh agent
 ssh-agent -s
