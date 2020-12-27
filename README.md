@@ -38,6 +38,7 @@ Github > Settings > SSH and GPG keys > New SSH key
 
 ### Test the ssh connection
 ssh -T git@github.com
+
 Hi mrdoogees! You've successfully authenticated, but GitHub does not provide shell access.
 
 
