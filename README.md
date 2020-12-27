@@ -1,4 +1,4 @@
-You can use this repository to familiarize with sthe most used git commands :
+You can use this repository to familiarize with the most used git commands :
 - clone
 - checkout
 - status
