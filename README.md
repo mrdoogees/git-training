@@ -42,4 +42,6 @@ ssh -T git@github.com
 
 Hi mrdoogees! You've successfully authenticated, but GitHub does not provide shell access.
 
+### Clone the repository
+git clone ...
 
