@@ -12,7 +12,7 @@ You can use this repository to familiarize with the most used git commands :
 - rebase
 - fetch
 
-# Configure ssh [cmder]
+# Configure ssh [[cmder](https://cmder.net/)]
 
 ### Generate ssh key
 ssh-keygen -t rsa -b 4096 -C youremail@gmail.com
