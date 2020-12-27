@@ -11,7 +11,7 @@ You can use this repository to train with git's basics command :
 - rebase
 - fetch
 
-# Github - cmder
+# Github with cmder
 
 ### Generate ssh key
 ssh-keygen -t rsa -b 4096 -C your-emails@gmail.com
