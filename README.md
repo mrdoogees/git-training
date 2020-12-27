@@ -13,9 +13,9 @@ You can use this repository to familiarize with the most used git commands :
 - fetch
 
 # Configure ssh 
-Gitbash is preinstalled with git, but you can also use your favorite editor. 
+You can use gitbash which is the default command line tool preinstalled with git
 
-I am familiar with the emulator console [[cmder](https://cmder.net/)]
+In this example, I choose [[cmder](https://cmder.net/)]
 
 ### Generate ssh key
 ssh-keygen -t rsa -b 4096 -C youremail@gmail.com
