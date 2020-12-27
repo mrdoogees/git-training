@@ -17,7 +17,9 @@ Repository to familiarize with git's command :
 ssh-keygen -t rsa -b 4096 -C your-emails@gmail.com
 
 _Do not change the name of the file : id_rsa
+
 Do not change the directory : /c/User/aosih/.ssh/id_rsa
+
 Accept …_
 
 ### Check the ssh agent
