@@ -12,14 +12,14 @@ You can use this repository to familiarize with the most used git commands :
 - rebase
 - fetch
 
-# Configure ssh
+# Configure ssh [cmder]
 
 ### Generate ssh key
-ssh-keygen -t rsa -b 4096 -C your-emails@gmail.com
+ssh-keygen -t rsa -b 4096 -C youremail@gmail.com
 
 Do not change the name of the file : id_rsa
 Do not change the directory : /c/User/aosih/.ssh/id_rsa
-Accept …
+Accept . . . 
 
 ### Check the ssh agent
 ssh-agent -s
