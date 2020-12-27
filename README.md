@@ -8,4 +8,5 @@ You can use this repository to train with git's basics command :
 - push
 - merge
 - mergetool
+- rebase
 - fetch
